@@ -1,4 +1,6 @@
 # node
-College: Udemy
-Instructor: Anhton Alicea
-Subject: node tutorial
+{
+  "College": "Udemy",
+  "Instructor": "Anhton Alicea",
+  "Subject": "node tutorial"
+}
