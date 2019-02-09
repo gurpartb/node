@@ -1,6 +1,6 @@
 # node
 {
   "College": "Udemy",
-  "Instructor": "Anhton Alicea",
+  "Instructor": "Anthony Alicea",
   "Subject": "node tutorial"
 }
