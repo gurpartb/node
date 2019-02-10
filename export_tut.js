@@ -32,3 +32,8 @@ grtr.greet();
 
 var greet5 = require('./greet5').greet;
 greet5();
+
+
+// Manipulating export and module.export
+var greet6 = require('./greet6.js');
+greet6;

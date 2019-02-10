@@ -1,4 +1,4 @@
-var greetings = require('./greetings.json')
+// var greetings = require('./greet/greetings.json')
 
 var greet = function(){
     console.log('hello!')
