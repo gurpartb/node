@@ -2,6 +2,9 @@
 // Build our own
 var Emitter = require('./emitter2');
 
+// Line below uses node's event handler/ emitter
+// var Emitter = require('events');
+
 var emtr = new Emitter();
 
 emtr.on('greet', function(){
