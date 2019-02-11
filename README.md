@@ -41,5 +41,8 @@ BIG WORD ALERT!!
 
 "Abstract (Base) Class": "A type of constructor you never work directly with, but inherit from. We create new custom objects which inherit from the abstract base class.",
 
-"Pipe": "Connecting two streams by writing to one stream what is being read from another. In Node you pipe from a Readable stream to a writeable stream."
+"Pipe": "Connecting two streams by writing to one stream what is being read from another. In Node you pipe from a Readable stream to a writeable stream.",
+
+"Method Chaining": "A method returns an object so we can keep calling more methods. Sometimes if returns the parent object (called 'cascading') an sometimes some other object.",
+
 }
