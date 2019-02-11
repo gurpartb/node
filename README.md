@@ -29,6 +29,8 @@ BIG WORD ALERT!!
 
 "Character Encoding": "How characters are stored in Binary. The numbers (or code points) are converted and stored in binary.",
 
-"Byte": "8 Bits. 00101100"'
+"Byte": "8 Bits. 00101100",
+
+"Error-First Callback": "Callbacks take an error object as their first parameter. -null- if no errorl, otherwise will contain an object defining the error. This is a standard so we know in what order to place our parameters for our callbacks.",
 
 }
