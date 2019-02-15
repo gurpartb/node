@@ -45,4 +45,23 @@ BIG WORD ALERT!!
 
 "Method Chaining": "A method returns an object so we can keep calling more methods. Sometimes if returns the parent object (called 'cascading') an sometimes some other object.",
 
+"Protocol": "A set of rules two sides agree on to use when communicating. Both the client and server are programmed to understand and use that particular set of rules. It's similar to two people from different countries agreeing on a language to speak in.",
+
+"TCP": "Transmission Control Protocol.",
+
+"Port": "Once a computer receives a packet, how it knows what program to send it to. When a program is setup on the operating system to receive packets from a particular port, it is said that the program is 'listening' to that port.",
+
+"HTTP": "A set of rules (and a format) for data being transferred on the web. Stands for 'HyperText Protocol'. It's a format (of various) defining data being tranferred via TCP/IP.",
+
+"MIME type": "A standard for specifying the type of data being sent. Stands for 'Multipurpose Internet Mail Extensions'. Examples: application/json, text/html, image/jpeg.",
+
+"Template": "Text designed to be the basis for final text or content after being prcessed. There's usually some specific template language, so the template system knows how to replace placeholders with real values.",
+
+"API": "A set of tools for building a software application. Stands for 'Application Programming Interface'. On the web the tool are usually made available via a set of URLs which accept and send only data via HTTP and TCP/IP.",
+
+"Endpoint": "One URL in a web API. Sometimes that endpoint (URL) does multiple thing by making choices based on the HTTP request headers.",
+
+"Serialize": "Translating an object into a format that can be stored or transferred. JSON, CSV, XML, and others are popular. 'Deserialize' is the opposite (conversting the format back into an object).",
+
+"Routing": "Mapping http requests to content. Whether actual files that exist on the server, or not.",
 }
