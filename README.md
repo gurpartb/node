@@ -64,4 +64,23 @@ BIG WORD ALERT!!
 "Serialize": "Translating an object into a format that can be stored or transferred. JSON, CSV, XML, and others are popular. 'Deserialize' is the opposite (conversting the format back into an object).",
 
 "Routing": "Mapping http requests to content. Whether actual files that exist on the server, or not.",
+
+"Package": "Code managed and maintained with a package management system.",
+
+"Package management system": "Software that automates installing and updating packages. Deals with version you have or need, and manages dependencies.",
+
+"Dependency": "Code, that another set of code depends on, to function. If you use that code in your app, it is a dependency. You app depends on it.",
+
+"Versioning": "Specifying what version of a set of code this is, so others can track if a new version has come out. This allows to watch fot new features, or to watch for 'breaking changes'. The word 'semantic' implies that something conveys meaning.",
+
+"Enviroment Variables": "Global variables specifics to the enviroment (server) our code is living in. Different servers can have different variable settings, and we can access those values in code.",
+
+"HTTP Method": "Specifies the type of action the request wishes to make. GET, POST, DELETE, and others. Also callec -verbs-.",
+
+"Middleware": "Code that sits between two layers of software. In the case of Express, sitting between the request and the response.",
+
+"Static": "Not Dynamic. In other words, not processed by code in any way. For example, HTML, CSS, and image files are 'static' files.",
+
+"REST": "An architectual style for building APIs. Stands for 'Representational State Transfer'. We decide that HTTP verbs and URLs mean something.",
+
 }

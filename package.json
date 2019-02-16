@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-test-app",
+  "version": "1.0.0",
+  "description": "NodeJS Test App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurpartb/node.git"
+  },
+  "author": "Gurpartap Singh Bhatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurpartb/node/issues"
+  },
+  "homepage": "https://github.com/gurpartb/node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.16.2"
+  }
+}
